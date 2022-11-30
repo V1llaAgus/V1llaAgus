@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Agustin villarruel</h1>
 
-<img src ="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" align="center" alt="Banner sobre Arturs Smirnovs">
+<center><img src ="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  alt="Banner sobre Arturs Smirnovs"></center>
 
 <h3 align="center">Student in Higher Technician in Software Development, with the ability to develop and design software with the needs of the company or client. The tools that I use are SQL. And Visual Basic.NET, Also with basic / medium knowledge in development and design of Websites Working together with the languages of HTML, CSS and JavaScript.</h3>
 
